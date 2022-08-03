@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hola Mundo")
+	fmt.Println("Hello world")
 
 	ii := []int {1,2,3,4}
 	fooVar := foo(ii...)
